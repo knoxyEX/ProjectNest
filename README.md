@@ -3,7 +3,7 @@
 Welcome to **ProjectNest**, a resource hub for study tools, educational content, and fun activities. This is a study guide that works, but also includes unblocked games for a fun break.
 
 ## Features
-- **Unblocked Games**: Enjoy a variety of games designed to provide a fun break.
+- **Unblocked Games**: Enjoy a variety of games designed to provide a fun break. But the main idea of ProjectNest is to make unblocked games undercover.
 - **Research Tools**: Explore helpful resources for your academic needs.
 - **Study Resources**: Find guides and materials to enhance your learning experience.
 
